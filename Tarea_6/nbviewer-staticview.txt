@@ -1,0 +1,1 @@
+https://nbviewer.org/github/jgaravitoh/Matematicas-Discretas-2-Trabajos/blob/main/Tarea_6/Tarea_6_discretas_2_EulerTotient.ipynb
