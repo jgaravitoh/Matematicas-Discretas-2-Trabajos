@@ -1,0 +1,1 @@
+https://nbviewer.org/github/jgaravitoh/Matematicas-Discretas-2-Trabajos/blob/main/Algoritmo%20de%20Euclides/Algoritmo_De_Euclides.ipynb
